@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://leadersnowy.github.io/myblog.github.io/
+root: /leadersnowy.github.io/
+permalink: :year/:month/:day/:title/
+permalink_defaults:
